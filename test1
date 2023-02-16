@@ -1,0 +1,10 @@
+## Create Country Basic Data
+```cs
+
+Create EnterpriseHandling.svc/TrnCountries
+{
+    "CountryId": "US",
+    "Country": "United States"
+}
+
+```
